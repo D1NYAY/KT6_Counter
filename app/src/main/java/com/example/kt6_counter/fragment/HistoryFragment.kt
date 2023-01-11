@@ -9,7 +9,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.kt6_counter.MainViewModel
 import com.example.kt6_counter.databinding.FragmentHistoryBinding
 
-class StoryFragment : Fragment() {
+class HistoryFragment : Fragment() {
 
     private lateinit var binding: FragmentHistoryBinding
     private lateinit var viewModel: MainViewModel
